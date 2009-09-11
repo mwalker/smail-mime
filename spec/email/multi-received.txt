@@ -1,0 +1,11 @@
+Received: from mail.example.com (10.0.0.1) by smtp.example.com id AAAAAAAA
+Received: from client.example.com (192.168.1.1) by mail.example.com id 111111
+From: Bowdler <ise@example.com>
+Date: Thu Oct 2, 2003 05:07:13  +0000
+To: "Simple" <simple@example.com>
+Subject: A simple email.
+Message-Id: <8603715@mail.example.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+A simple boring email with muliple Received headers.

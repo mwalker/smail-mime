@@ -1,0 +1,2 @@
+X-Hidden-Test: An email with no recognisable headers but still parsable.
+

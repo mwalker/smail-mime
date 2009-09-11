@@ -1,0 +1,98 @@
+Return-Path: <renewal-bounce@netregistry.com.au>
+X-Virus-Scanned: by both ClamAV and Kaspersky at http://example.com/
+X-Aliencamel-Status: Pending
+X-Aliencamel-Originally-For: purchasing@example.com
+X-Spam-Score: -0.5
+X-Spam-Flag: No
+Received: from d.mx.example.com ([70.86.111.162] verified)
+  by example.com (CommuniGate Pro SMTP 4.2.10)
+  with ESMTP id 45039294 for purchasing@example.com; Thu, 26 Apr 2007 13:03:04 +0000
+Received: by d.mx.example.com (Postfix, from userid 25)
+	id 2D1FD6D43E; Thu, 26 Apr 2007 08:03:02 -0500 (CDT)
+Received: from d.mx.example.com (localhost [127.0.0.1])
+	by d.mx.example.com (Postfix) with ESMTP id 30B1C6D428
+	for <purchasing@example.com>; Thu, 26 Apr 2007 08:03:02 -0500 (CDT)
+Received: from mail.netregistry.net (mail.netregistry.net [218.185.51.134])
+	by d.mx.example.com (Postfix) with ESMTP id A35D66D425
+	for <purchasing@example.com>; Thu, 26 Apr 2007 08:03:01 -0500 (CDT)
+Received: from theconsole.netregistry.net ([218.185.51.138] helo=theconsole.private.netregistry.net)
+	by mail.netregistry.net protocol: esmtp (Exim 4.63 #1 (Debian))
+	id 1Hh3cf-0002Tf-QL
+	for <purchasing@example.com>; Thu, 26 Apr 2007 23:03:00 +1000
+Received: from localhost ([127.0.0.1] helo=theconsole.private.netregistry.net)
+	by theconsole.private.netregistry.net with esmtp (Exim 3.36 #1 (Debian))
+	id 1Hh3cR-0007Gt-00
+	for <purchasing@example.com>; Thu, 26 Apr 2007 23:02:43 +1000
+Message-ID: <195464471.1177592563734.JavaMail.root@theconsole.private.netregistry.net>
+Date: Thu, 26 Apr 2007 23:02:43 +1000 (EST)
+From: renewal-bounce@netregistry.com.au
+Reply-To: renewal-bounce@netregistry.com.au
+To: purchasing@example.com
+Subject: NetRegistry example.com.au Expires in 30 days. #tid2122497
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-NR-Spam-Report: Spam detection software, running on the system "mail.netregistry.net", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Dear Purchasing Officer, Your domain name,
+	example.com.au is due to expire in 30 days on 26/05/2007. TO RENEW
+	YOUR DOMAIN NAME If you wish to renew your domain name, you can do so
+	now and any period remaining before your expiry date is added to the end
+	of your next registration period. [...] 
+	Content analysis details:   (-100.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.6 NO_REAL_NAME           From: does not include a real name
+	-100 USER_IN_WHITELIST      From: address is in the user's white-list
+	-1.4 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+X-Virus-Scanned: ClamAV using ClamSMTP
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Thu Apr 26 08:03:02 2007
+X-DSPAM-Confidence: 0.6505
+X-DSPAM-Probability: 0.0000
+X-DSPAM-Signature: 4630a306791882063510520
+
+Dear Product Officer,
+
+Your domain name, example.com.au is due to expire in 30 days on 26/05/2007. 
+
+TO RENEW YOUR DOMAIN NAME
+If you wish to renew your domain name, you can do so now and any period remaining before your expiry date is added to the end of your next registration period.
+
+To renew click
+http://theconsole.netregistry.net/rego/execute/getRenewal?reference=2112297 
+and follow the on-line instructions.
+
+TO LET THE DOMAIN LAPSE
+If you no longer want your domain name you have the option of letting it lapse. Once the domain name has lapsed out of registration, you will lose your rights to it and it will be available to anyone to register.
+
+Please be aware that any subscription services (hosting, email etc) associated with the domain will
+not be cancelled. If you wish to cancel these services you must complete the
+forms at http://www.netregistry.com.au/cancellations
+
+To allow to lapse click
+http://theconsole.netregistry.net/rego/execute/getCancellation?reference=2112297
+and follow the on-line instructions.
+
+LOST YOUR PASSWORDS?
+If you do not have your login details for TheConsole follow this link:
+http://theconsole.netregistry.net/execute/forgottenAccount
+
+GOT A QUESTION?
+Please direct any questions you may have to our Technical Support Team at 
+http://www.netregistry.com.au/support/enquiry.html
+
+Best regards,
+
+The NetRegistry Team
+_____________________________________________
+NetRegistry     http://www.netregistry.com.au
+Tel: +61 2 9699 6099  |  Fax: +61 2 9699 6088
+PO Box 270   Broadway   NSW   2007  Australia
+
+Your Total Internet Business Services Provider. 
+Trusted by over 100,000 Australian businesses since 1997
+
