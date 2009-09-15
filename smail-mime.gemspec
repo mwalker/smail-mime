@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.require_path  = "lib"
   s.has_rdoc      = false
   #s.add_dependency('smail', '>=0.0.3') 
-  s.requirements('smail gem >=0.0.3') # Not a dependency so it can be installed via github
+  s.requirements  << 'smail gem >=0.0.3' # Not a dependency so it can be installed via github
   s.add_dependency('activesupport', '>=2.0.0') 
   s.add_development_dependency('rspec', '>=1.0.5') 
 end
