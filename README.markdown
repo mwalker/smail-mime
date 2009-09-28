@@ -12,7 +12,7 @@ It is still a work in progress and the interface may change.
 Download & Install
 ==================
 
-    sudo gem install smail-mime-mwalker --source http://gems.github.com
+    sudo gem install mwalker-smail-mime --source http://gems.github.com
 
 Synopsis
 ========
